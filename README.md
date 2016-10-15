@@ -1,0 +1,1 @@
+Alexa skill based on the fact template. It gives you fun facts/trivia.
